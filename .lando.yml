@@ -1,0 +1,6 @@
+name: travel-ucsc
+recipe: pantheon
+config:
+  framework: wordpress
+  site: travel-ucsc
+  id: c03283e3-f7f6-466f-891a-81c1dcf4b635
